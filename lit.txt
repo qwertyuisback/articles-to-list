@@ -1,0 +1,581 @@
+"PHARMACEUTICAL CHATBOT ASSISTANT USING GENERATIVE AI AND KNOWLEDGE GRAPH WITH
+SPECIFIC PHARMACEUTICAL RESOURCES
+[https://scholar.google.com/scholar_url?url=https://www.researchsquare.com/article/rs-7743987/latest&hl=en&sa=X&d=7983155007012009552&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b92TpjKIBMvTydbCFNS7Qj7&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=0&folt=kw-top]
+
+B Menaouer, C Younes, EE Mokhtar, S Mohammed - 2025
+… Generative AI (GenAI) is a type of AI that aims to produce new content rather
+than
+merely recognizing it. One of the most significant … In this study, we propose a
+chatbot system to support pharmacists through the development of a
+pharmaceutical …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=UPbUqy7dyW4J&citsig=ACUpqDcAAAAAatVdlU_aQnfiLhdp0BlMZlXnrMETwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.researchsquare.com/article/rs-7743987/latest&rt=Pharmaceutical+ChatBot+Assistant+Using+Generative+AI+and+Knowledge+Graph+with+Specific+Pharmaceutical+Resources&scisig=AAZF9b-KTLkS-Ytd2WG54TIGB3DbLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.researchsquare.com/article/rs-7743987/latest&rt=Pharmaceutical+ChatBot+Assistant+Using+Generative+AI+and+Knowledge+Graph+with+Specific+Pharmaceutical+Resources&scisig=AAZF9b-KTLkS-Ytd2WG54TIGB3DbFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.researchsquare.com/article/rs-7743987/latest&rt=Pharmaceutical+ChatBot+Assistant+Using+Generative+AI+and+Knowledge+Graph+with+Specific+Pharmaceutical+Resources&scisig=AAZF9b-KTLkS-Ytd2WG54TIGB3Db
+
+
+
+[PDF] … ACCURACY, EFFICIENCY, AND USER SATISFACTION IN COMPLEX INFORMATION
+RETRIEVAL TASKS WITH ADVANCED GENERATIVE ARTIFICIAL INTELLIGENCE CHATBOTS: A
+MIXED-METHODS STUDY
+[https://scholar.google.com/scholar_url?url=https://www.researchgate.net/profile/Mary-Oconnell-20/publication/396508975_Improving_Accuracy_Efficiency_and_User_Satisfaction_in_Complex_Information_Retrieval_Tasks_with_Advanced_Generative_Artificial_Intelligence_Chatbots_A_Mixed-Methods_Study/links/68ef7fcfe7f5f867e6dfcef4/Improving-Accuracy-Efficiency-and-User-Satisfaction-in-Complex-Information-Retrieval-Tasks-with-Advanced-Generative-Artificial-Intelligence-Chatbots-A-Mixed-Methods-Study.pdf&hl=en&sa=X&d=15329948237279578943&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b_pfnCV8tsyyNPqryVYOjuk&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=1&folt=kw-top]
+
+ME O'Connell, M Joseph - 2025
+… This mixed-methods research demonstrated a clear and statistically significant
+advantage in both accuracy (, ) and efficiency ( min., ) when knowledge workers
+utilize advanced generative AI chatbots for complex information synthesis. The …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=P8ssRLPqvtQJ&citsig=ACUpqDcAAAAAatVdlX56bT0_W_xvgjObp07xw-ETwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.researchgate.net/profile/Mary-Oconnell-20/publication/396508975_Improving_Accuracy_Efficiency_and_User_Satisfaction_in_Complex_Information_Retrieval_Tasks_with_Advanced_Generative_Artificial_Intelligence_Chatbots_A_Mixed-Methods_Study/links/68ef7fcfe7f5f867e6dfcef4/Improving-Accuracy-Efficiency-and-User-Satisfaction-in-Complex-Information-Retrieval-Tasks-with-Advanced-Generative-Artificial-Intelligence-Chatbots-A-Mixed-Methods-Study.pdf&rt=Improving+Accuracy,+Efficiency,+and+User+Satisfaction+in+Complex+Information+Retrieval+Tasks+with+Advanced+Generative+Artificial+Intelligence+Chatbots:+A+Mixed-Methods+Study&scisig=AAZF9b_xqG05BmBO2MY5vGGe9j8hLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.researchgate.net/profile/Mary-Oconnell-20/publication/396508975_Improving_Accuracy_Efficiency_and_User_Satisfaction_in_Complex_Information_Retrieval_Tasks_with_Advanced_Generative_Artificial_Intelligence_Chatbots_A_Mixed-Methods_Study/links/68ef7fcfe7f5f867e6dfcef4/Improving-Accuracy-Efficiency-and-User-Satisfaction-in-Complex-Information-Retrieval-Tasks-with-Advanced-Generative-Artificial-Intelligence-Chatbots-A-Mixed-Methods-Study.pdf&rt=Improving+Accuracy,+Efficiency,+and+User+Satisfaction+in+Complex+Information+Retrieval+Tasks+with+Advanced+Generative+Artificial+Intelligence+Chatbots:+A+Mixed-Methods+Study&scisig=AAZF9b_xqG05BmBO2MY5vGGe9j8hFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.researchgate.net/profile/Mary-Oconnell-20/publication/396508975_Improving_Accuracy_Efficiency_and_User_Satisfaction_in_Complex_Information_Retrieval_Tasks_with_Advanced_Generative_Artificial_Intelligence_Chatbots_A_Mixed-Methods_Study/links/68ef7fcfe7f5f867e6dfcef4/Improving-Accuracy-Efficiency-and-User-Satisfaction-in-Complex-Information-Retrieval-Tasks-with-Advanced-Generative-Artificial-Intelligence-Chatbots-A-Mixed-Methods-Study.pdf&rt=Improving+Accuracy,+Efficiency,+and+User+Satisfaction+in+Complex+Information+Retrieval+Tasks+with+Advanced+Generative+Artificial+Intelligence+Chatbots:+A+Mixed-Methods+Study&scisig=AAZF9b_xqG05BmBO2MY5vGGe9j8h
+
+
+
+AN AGENTIC MULTI-PERSONA GENERATIVE AI SYSTEM FOR MENTAL HEALTH COMPANIONSHIP
+[https://scholar.google.com/scholar_url?url=https://openreview.net/forum%3Fid%3DQpo7JoeuOf&hl=en&sa=X&d=1452049079289295984&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b_GgHEqXvwsEdHfVVhbloSO&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=2&folt=kw-top]
+
+Y Wang - The Second Workshop on GenAI for Health: Potential …
+… Existing generative AI chatbots for mental health support often rely on a
+single
+persona, have limited memory, … generative AI can foster more natural and
+emotionally resonant companionship, and spark discussions on the potentials
+and …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=cLR4v_G2JhQJ&citsig=ACUpqDcAAAAAatVdlYeYFldZS5UttjHXTbsxsSkTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://openreview.net/forum%3Fid%3DQpo7JoeuOf&rt=An+Agentic+Multi-Persona+Generative+AI+System+for+Mental+Health+Companionship&scisig=AAZF9b8qcL9WljUL_v4uaYrG37QpLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://openreview.net/forum%3Fid%3DQpo7JoeuOf&rt=An+Agentic+Multi-Persona+Generative+AI+System+for+Mental+Health+Companionship&scisig=AAZF9b8qcL9WljUL_v4uaYrG37QpFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://openreview.net/forum%3Fid%3DQpo7JoeuOf&rt=An+Agentic+Multi-Persona+Generative+AI+System+for+Mental+Health+Companionship&scisig=AAZF9b8qcL9WljUL_v4uaYrG37Qp
+
+
+
+[PDF] HOW DO SOCIAL BOTS BECOME THE"" OTHER""?—IDENTITY CAMOUFLAGE OF GENERATIVE
+AI IN SOCIAL PLATFORMS
+[https://scholar.google.com/scholar_url?url=https://academics.erytis.com/index.php/jcsft/article/view/134/129&hl=en&sa=X&d=1841586637956858071&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b9h-P9zkMQ-aWna7HkBfLCT&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=3&folt=kw-top]
+
+M Liu - Journal of Computer Science and Frontier …, 2025
+… logic by generative AI technology. This study not only provides implementable
+quantitative indicators for social bot detection on Chinese platforms but also
+offers
+empirical reference for understanding the evolution of the information ecology
+in the …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=10CGQkqhjhkJ&citsig=ACUpqDcAAAAAatVdlTh0aXO5eZSmemguQEK0wEMTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://academics.erytis.com/index.php/jcsft/article/view/134/129&rt=How+Do+Social+Bots+Become+the%22+Other%22%3F%E2%80%94Identity+Camouflage+of+Generative+AI+in+Social+Platforms&scisig=AAZF9b-zm7Ruy7cfNeFtIY4WIk_6LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://academics.erytis.com/index.php/jcsft/article/view/134/129&rt=How+Do+Social+Bots+Become+the%22+Other%22%3F%E2%80%94Identity+Camouflage+of+Generative+AI+in+Social+Platforms&scisig=AAZF9b-zm7Ruy7cfNeFtIY4WIk_6Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://academics.erytis.com/index.php/jcsft/article/view/134/129&rt=How+Do+Social+Bots+Become+the%22+Other%22%3F%E2%80%94Identity+Camouflage+of+Generative+AI+in+Social+Platforms&scisig=AAZF9b-zm7Ruy7cfNeFtIY4WIk_6
+
+
+
+IMPACT OF GENERATIVE ARTIFICIAL INTELLIGENCE SYSTEMS ON HIGHER EDUCATION IN
+INDIA–A DELPHI STUDY
+[https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s42979-025-04449-5&hl=en&sa=X&d=16001960197107599823&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b-SkTmRQ0NNEORKO3sI2sQe&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=4&folt=kw-top]
+
+GS Mani, N Sharma, R Jain, SD Pohekar - SN Computer Science, 2025
+… The recent Generative AI (GAI) models and utilities are providing better user
+experience than … could be useful for framing educational policies using the
+Generative AI models and utilities. … Many universities and academic
+institutions …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=z8mJagRiEt4J&citsig=ACUpqDcAAAAAatVdlWtWpNYLRFUl4D6xbt45QyMTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://link.springer.com/article/10.1007/s42979-025-04449-5&rt=Impact+of+Generative+Artificial+Intelligence+Systems+on+Higher+Education+in+India%E2%80%93A+Delphi+Study&scisig=AAZF9b8dKQA725qP2ZZYVFgpsup4LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://link.springer.com/article/10.1007/s42979-025-04449-5&rt=Impact+of+Generative+Artificial+Intelligence+Systems+on+Higher+Education+in+India%E2%80%93A+Delphi+Study&scisig=AAZF9b8dKQA725qP2ZZYVFgpsup4Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://link.springer.com/article/10.1007/s42979-025-04449-5&rt=Impact+of+Generative+Artificial+Intelligence+Systems+on+Higher+Education+in+India%E2%80%93A+Delphi+Study&scisig=AAZF9b8dKQA725qP2ZZYVFgpsup4
+
+
+
+SHAPING THE FUTURE OF EDUCATION: AI‐DRIVEN APPROACHES FOR PRIMARY SCHOOLS
+[https://scholar.google.com/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch09&hl=en&sa=X&d=1497252244147766136&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b8CUIBxkI0BulLYMi_T7GOF&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=5&folt=kw-top]
+
+D Maher, J Nobile, J Hanham, A Maddox - AI in Early Education: Integrating
+Artificial …, 2025
+… This approach leverages AI, including chatbots and generative AI, to optimize
+learning outcomes and engagement across various educational … directions of
+personalized and adaptive learning, particularly in the context of emerging …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=eIOVt_tOxxQJ&citsig=ACUpqDcAAAAAatVdldp0_VrGME8twbeIlF3B0LETwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch09&rt=Shaping+the+Future+of+Education:+AI%E2%80%90Driven+Approaches+for+Primary+Schools&scisig=AAZF9b_xDGxEte7wzh1XBEQYsRwhLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch09&rt=Shaping+the+Future+of+Education:+AI%E2%80%90Driven+Approaches+for+Primary+Schools&scisig=AAZF9b_xDGxEte7wzh1XBEQYsRwhFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch09&rt=Shaping+the+Future+of+Education:+AI%E2%80%90Driven+Approaches+for+Primary+Schools&scisig=AAZF9b_xDGxEte7wzh1XBEQYsRwh
+
+
+
+[HTML] DEVELOPMENT OF A CONVERSATIONAL ARTIFICIAL INTELLIGENCE–BASED WEB
+APPLICATION FOR MEDICAL CONSULTATIONS: PROTOTYPE STUDY
+[https://scholar.google.com/scholar_url?url=https://xmed.jmir.org/2025/1/e56090&hl=en&sa=X&d=1847169618036715002&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b9705wCtGQBtDYDtftDrAuj&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=6&folt=kw-top]
+
+JG Pires - JMIRx Med, 2025
+… Objective: This study aims to develop a smart chatbot that integrates large
+language models from OpenAI … This work presents a prototype of a chatbot
+designed for medical applications. The … A recent Business Insider article
+[61] …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=-u34Gvt2ohkJ&citsig=ACUpqDcAAAAAatVdlZTuc2mQvX5pcYjIipHhneoTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://xmed.jmir.org/2025/1/e56090&rt=Development+of+a+Conversational+Artificial+Intelligence%E2%80%93Based+Web+Application+for+Medical+Consultations:+Prototype+Study&scisig=AAZF9b9kz0s_D84fuc7JOISOfnb7LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://xmed.jmir.org/2025/1/e56090&rt=Development+of+a+Conversational+Artificial+Intelligence%E2%80%93Based+Web+Application+for+Medical+Consultations:+Prototype+Study&scisig=AAZF9b9kz0s_D84fuc7JOISOfnb7Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://xmed.jmir.org/2025/1/e56090&rt=Development+of+a+Conversational+Artificial+Intelligence%E2%80%93Based+Web+Application+for+Medical+Consultations:+Prototype+Study&scisig=AAZF9b9kz0s_D84fuc7JOISOfnb7
+
+
+
+[PDF] A FRAMEWORK FOR EMBEDDING GENERATIVE AND AGENTIC AI IN OPEN SOURCE
+INTELLIGENCE
+[https://scholar.google.com/scholar_url?url=https://repository.londonmet.ac.uk/10859/1/IEEE_Conf_CERC_2025_KW__GenAI_for_OSINT-Camera%2520Ready.pdf&hl=en&sa=X&d=5286670417408552626&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b8eQe2oLTAwF-Tg7u2_DogL&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=7&folt=kw-top]
+
+E Almeida Palmieri, MC Ghanem, D Dunsin… - CERC: 7th International …, 2025
+… It also applies generative AI for adversarial scenario simulation, synthetic
+training
+data creation, and automated report drafting. … The system uses APIs, web
+crawlers,
+and bot frameworks to access these data streams. Data preprocessing includes …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=su4zErwGXkkJ&citsig=ACUpqDcAAAAAatVdlRx64FUCi2ErVF_YPs-v7jYTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://repository.londonmet.ac.uk/10859/1/IEEE_Conf_CERC_2025_KW__GenAI_for_OSINT-Camera%2520Ready.pdf&rt=A+framework+for+embedding+generative+and+agentic+AI+in+Open+Source+Intelligence&scisig=AAZF9b_1nYAW8mxCaRDCZ8gWiwyfLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://repository.londonmet.ac.uk/10859/1/IEEE_Conf_CERC_2025_KW__GenAI_for_OSINT-Camera%2520Ready.pdf&rt=A+framework+for+embedding+generative+and+agentic+AI+in+Open+Source+Intelligence&scisig=AAZF9b_1nYAW8mxCaRDCZ8gWiwyfFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://repository.londonmet.ac.uk/10859/1/IEEE_Conf_CERC_2025_KW__GenAI_for_OSINT-Camera%2520Ready.pdf&rt=A+framework+for+embedding+generative+and+agentic+AI+in+Open+Source+Intelligence&scisig=AAZF9b_1nYAW8mxCaRDCZ8gWiwyf
+
+
+
+HARNESSING AI FOR INCLUSIVE TEACHING: PROFESSIONAL DEVELOPMENT STRATEGIES FOR
+EARLY EDUCATORS
+[https://scholar.google.com/scholar_url?url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch16&hl=en&sa=X&d=15893327514869735135&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b_4gZ7M9U1jf1mBnDX2MzDV&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=8&folt=kw-top]
+
+A Marras, F Fornara, A Pasqualotto - AI in Early Education: Integrating
+Artificial …, 2025
+… Large language models (LLMs) are a subset of generative AI trained on vast
+datasets, enabling them to generate human-like text based on … By leveraging NLP
+and machine learning, chatbots can assist both educators and students by …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=357AFitxkNwJ&citsig=ACUpqDcAAAAAatVdlevRnKt45jEhmWNp87xke3ATwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch16&rt=Harnessing+AI+for+Inclusive+Teaching:+Professional+Development+Strategies+for+Early+Educators&scisig=AAZF9b8Uu9hzlhJHuth5OCtPzi3ELinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch16&rt=Harnessing+AI+for+Inclusive+Teaching:+Professional+Development+Strategies+for+Early+Educators&scisig=AAZF9b8Uu9hzlhJHuth5OCtPzi3EFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394352821.ch16&rt=Harnessing+AI+for+Inclusive+Teaching:+Professional+Development+Strategies+for+Early+Educators&scisig=AAZF9b8Uu9hzlhJHuth5OCtPzi3E
+
+
+
+[PDF] UNDERSTANDING ETHICAL CONSIDERATIONS OF GENERATIVE ARTIFICIAL INTELLIGENCE
+FOR COMMUNITY COLLEGE FACULTY IN DISTANCE EDUCATION STEM COURSES
+[https://scholar.google.com/scholar_url?url=https://repositories.lib.utexas.edu/bitstreams/f2636095-25c3-461f-84dd-fc216f942082/download&hl=en&sa=X&d=17057991345714476882&ei=FSr0aJjHNs6E6rQPjY_jkQI&scisig=AAZF9b_wcoh9r8gMxhSl9xpA57LR&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=9&folt=kw-top]
+
+H Tavakoli - 2025
+… Generative AI (GAI) has increased accessibility for all by allowing students
+to
+access “tutors” … chatbots with enhanced capabilities emerge periodically, this
+study may not have fully … chatbot, I used ChatGPT to standardize chatbot …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=Urf_dsAouuwJ&citsig=ACUpqDcAAAAAatVdlfOUz_s1U9PWKZM6Ek_wiiETwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://repositories.lib.utexas.edu/bitstreams/f2636095-25c3-461f-84dd-fc216f942082/download&rt=Understanding+ethical+considerations+of+generative+artificial+intelligence+for+community+college+faculty+in+distance+education+STEM+courses&scisig=AAZF9b-pcWxJlgKqppQasdq79RCmLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://repositories.lib.utexas.edu/bitstreams/f2636095-25c3-461f-84dd-fc216f942082/download&rt=Understanding+ethical+considerations+of+generative+artificial+intelligence+for+community+college+faculty+in+distance+education+STEM+courses&scisig=AAZF9b-pcWxJlgKqppQasdq79RCmFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://repositories.lib.utexas.edu/bitstreams/f2636095-25c3-461f-84dd-fc216f942082/download&rt=Understanding+ethical+considerations+of+generative+artificial+intelligence+for+community+college+faculty+in+distance+education+STEM+courses&scisig=AAZF9b-pcWxJlgKqppQasdq79RCm
+
+
+
+
+
+ 
+
+T Radulesco, D Ebode, A Maniaci, S Gargula… - Aesthetic Plastic Surgery, 2025
+… Forty patients (85% female; mean age: 45.8 years) underwent photographic
+documentation and received AI-generated treatment plans for botulinum toxin and
+hyaluronic acid injections. Six AI chatbots and three generative vision models
+were …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=H9GkQdDwYNcJ&citsig=ACUpqDcAAAAAalvujgr9MOegj783vlfECsK7a_YTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLKLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLKFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLK
+
+
+
+IN GOOD FAITH: GENERATIVE AI'S PLAUSIBLE FALSEHOODS AND THEIR IMPLICATIONS FOR
+TRUST
+[https://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&hl=en&sa=X&d=6105562141277471279&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b8JrqXGY0tbu9yh2B9cId61&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=1&folt=kw-top]
+
+S Kodish - Atlantic Journal of Communication, 2025
+… According to the information provided on IBM’s website, hallucination refers
+to the
+case when ‘a large language model (LLM) – often a generative AI chatbot or
+computer vision tool – perceives patterns or objects that are nonexistent or …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=L8LqOGtQu1QJ&citsig=ACUpqDcAAAAAalvujt8Uu2yu2L89zrqQdIQMDS4Twitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0
+
+
+
+[PDF] EVALUATION OF GENERATIVE ARTIFICIAL INTELLIGENCE (GENAI) AS A
+TRANSFORMATIVE TECHNOLOGY FOR EFFECTIVE AND EFFICIENT GOVERNANCE, POLITICAL
+KNOWLEDGE, ELECTORAL, AND …
+[https://scholar.google.com/scholar_url?url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&hl=en&sa=X&d=2666363924821932492&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b_4AO1ER_rRQzWmzGaf5eF5&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=2&folt=kw-top]
+
+CL Ezeji, DE Uwizeyimana - International Journal of Business Ecosystem &
+Strategy …, 2025
+… This study examines generative artificial intelligence as a disruptive
+technology
+for enhancing governance, political knowledge, electoral … OpenAI's ChatGPT is
+an
+example of generative AI in action. This AI chatbot operates on the foundation
+of a …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=zHnt1NzTACUJ&citsig=ACUpqDcAAAAAalvujrVF6KEFtq6AdeTOrbMpxkUTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERALinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERAFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERA
+
+
+
+[PDF] AI AS AN ACADEMIC WRITING COMPANION
+[https://scholar.google.com/scholar_url?url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&hl=en&sa=X&d=9253476467610614164&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b_TvAqVarDb_iO4gZpS7ghu&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=3&folt=kw-top]
+
+T Muir, MS Kannelønning - Book of abstracts, 2025
+… they need to effectively use Generative AI for writing academic texts and,
+crucially,
+to assess the outputs of Generative AI with the appropriate … To combine
+academic
+literacy with a critical sense of the capabilities of AI chatbots, therefore,
+the workshop …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=lPld_dHzaoAJ&citsig=ACUpqDcAAAAAalvujixO3GF6E7jtZ4PcG4VbQ0MTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvNLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvNFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvN
+
+
+
+[PDF] PAST, PRESENT AND FUTURE: EXPLORING ADAPTIVE AI IN SOFTWARE DEVELOPMENT
+BOTS
+[https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2507.10822&hl=en&sa=X&d=16277812133516405836&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b8s4lvcKqTX0KUvNNyMn4HU&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=4&folt=kw-top]
+
+O Elsisi, G Melo - arXiv preprint arXiv:2507.10822, 2025
+… ChatGPT is a generative AI chatbot that creates content dynamically, helping
+developers with code generation, debugging, documentation, and brainstorming.
+It’s
+ideal for software engineers, technical writers, and testers needing creative
+or …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=TOzJUuRn5uEJ&citsig=ACUpqDcAAAAAalvujhgOB0hlw_WsH5JUR5ZhRbATwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqomLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqomFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqom
+
+
+
+GENERATIVE AI AND CIVIL WAR PRIMARY SOURCES: A METHODOLOGY EXPERIMENT
+[https://scholar.google.com/scholar_url?url=https://muse.jhu.edu/pub/14/article/965452/summary&hl=en&sa=X&d=13866126331565892199&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b9QclJ_RpeTnFPoMR6doN-X&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=5&folt=kw-top]
+
+J Mujic - Civil War History, 2025
+… Our students regularly use Gen AI tools like Grammarly, and now Chat GPT, to
+enhance the vocabulary of their writing (although usually in ineffective ways
+that
+muddle the outcomes), so we might consider ensuring that we are clearly
+explaining …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=Z-Ksw25gbsAJ&citsig=ACUpqDcAAAAAalvujlxtLJyc_WTktj9PgcVlzPUTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvGLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvGFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvG
+
+
+
+[PDF] BEYOND CHAT: COLLABORATIVE EDITORS ENHANCE HUMAN INVOLVEMENT AND AGENCY
+WHEN CO-WRITING WITH LARGE LANGUAGE MODELS
+[https://scholar.google.com/scholar_url?url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&hl=en&sa=X&d=8768442552172624819&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b9YSjcbhg09d9N1uraClMov&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=6&folt=kw-top]
+
+R Ocampo, O Bown, K Grace
+… with the AI, and adopted more engaged roles than participants using the
+chat-only
+interface. These findings suggest that offering a collaborative editor alongside
+chat
+can mitigate the risk of overreliance on AI and help preserve creative skills.
+As …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=szurQwvEr3kJ&citsig=ACUpqDcAAAAAalvujv2KjjXRAJbFwr2WNm6bsukTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aRLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aRFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aR
+
+
+
+REVOLUTIONIZING CANDIDATE REGISTRATION SUPPORT: LEVERAGING AI FOR AN OPTIMIZED
+PUBLIC EXAMINATION PROCESS
+[https://scholar.google.com/scholar_url?url=https://library.iated.org/view/MUPARURI2025REV&hl=en&sa=X&d=9822385715878040218&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b_ilHVgxpuXmt6BbY-Ak4QH&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=7&folt=kw-top]
+
+L Muparuri - EDULEARN25 Proceedings, 2025
+… Leveraging AI and emerging technologies, this paper introduces an innovative
+support solution through a generative AI-powered chatbot, developed using
+Microsoft Copilot Studio. The chatbot provides 24/7 real-time assistance to …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=mhLIccQfUIgJ&citsig=ACUpqDcAAAAAalvujip-3UHI2pqFOnVDp0Kt8YQTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2
+
+
+
+[PDF] HARNESSING AI'S DISRUPTIVE POTENTIAL IN UNIVERSITY EDUCATION: AN EMPIRICAL
+ANALYSIS OF THE TASK FORCE AI IN EDUCATION (IE&IS)
+[https://scholar.google.com/scholar_url?url=https://tueindhoven.ai/DisruptivePotentialOfAI.pdf&hl=en&sa=X&d=12882817662689829268&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b-s0gtBJzg5uPzuOgEdzyBL&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=8&folt=kw-top]
+
+B Sadowski - 2025
+… (eg, chatbots, grading systems). • Generative AI: Generative AI refers to a
+subset
+of AI technologies that create new content—text, images, or other … as a debate
+partner,"" ""Assessing learning outcomes in student interactions with Generative
+AI,"" …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=lGHBemj2yLIJ&citsig=ACUpqDcAAAAAalvujmk9rl1xsvNTK_INOGMy6lMTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://tueindhoven.ai/DisruptivePotentialOfAI.pdf&rt=Harnessing+AI%E2%80%99s+Disruptive+Potential+in+University+Education:+An+Empirical+Analysis+of+the+Task+Force+AI+in+Education+(IE%26IS)&scisig=AAZF9b9rTy3gfUo9gkuIXbM5gIuoLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://tueindhoven.ai/DisruptivePotentialOfAI.pdf&rt=Harnessing+AI%E2%80%99s+Disruptive+Potential+in+University+Education:+An+Empirical+Analysis+of+the+Task+Force+AI+in+Education+(IE%26IS)&scisig=AAZF9b9rTy3gfUo9gkuIXbM5gIuoFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://tueindhoven.ai/DisruptivePotentialOfAI.pdf&rt=Harnessing+AI%E2%80%99s+Disruptive+Potential+in+University+Education:+An+Empirical+Analysis+of+the+Task+Force+AI+in+Education+(IE%26IS)&scisig=AAZF9b9rTy3gfUo9gkuIXbM5gIuo
+
+
+
+UPDATES IN THE EVOLUTION OF AI-DRIVEN DIGITAL MARKETING PRACTICES: A LITERATURE
+REVIEW WITH BIBLIOMETRIC ANALYSIS
+[https://scholar.google.com/scholar_url?url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&hl=en&sa=X&d=9694562882023915545&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b_friQXSFlgYC4WpjYIRAZu&oi=scholaralrt&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&pos=9&folt=kw-top]
+
+M Faruk, MM Rahman, R Mustafa, I Roy - International Journal of Technology …,
+2025
+… However, the authors in this research strongly believe that this topic in the
+niche
+theme ‘generative AI’ is going to rule the future research … done through (AI)
+chatbots such as Drift or Intercom which improve brand interaction on websites
+and …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=GQC5w5MBioYJ&citsig=ACUpqDcAAAAAalvujiMnUG-HB8OpfkGe0AeH6RcTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnBLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnBFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnB
+
+
+
+
+
+ 
+
+This message was sent by Google Scholar because you're following new results for
+[generative ai chatbot]
+[https://scholar.google.com/scholar?q=generative+ai+chatbot&as_sdt=0&scisbd=1&hl=en].[https://scholar.google.com/scholar_url?url=https://scholar.google.com/scholar/images/cleardot.gif&hl=en&sa=X&ei=Drt6aJv4HafP6rQP8u7ewQ4&scisig=AAZF9b_a34HvSX_2fgO5O4n3w3Iv&hist=RSRmSqEAAAAJ:4883587992463900716:AAZF9b_tnVD2o1jNwIlPnhllR1Kb&html=&folt=kw-top&trs=0,1,2,3,4,5,6,7,8,9]
+
+List alerts
+[https://scholar.google.com/scholar_alerts?view_op=list_alerts&email_for_op=website%40alerts.com&alert_id=LIAsoGf9xUMJ&hl=en]
+Cancel alert
+[https://scholar.google.com/scholar_alerts?view_op=cancel_alert_options&email_for_op=website%40alerts.com&alert_id=LIAsoGf9xUMJ&hl=en&citsig=ACUpqDcAAAAAaI0wDv11DKB05yZ0dBR3DYYtg_0]"
+"IN GOOD FAITH: GENERATIVE AI'S PLAUSIBLE FALSEHOODS AND THEIR IMPLICATIONS FOR
+TRUST
+[https://scholar.google.com/scholar_url?url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&hl=en&sa=X&d=6105562141277471279&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b8JrqXGY0tbu9yh2B9cId61&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=0&folt=kw-top]
+
+S Kodish - Atlantic Journal of Communication, 2025
+… According to the information provided on IBM’s website, hallucination refers
+to the
+case when ‘a large language model (LLM) – often a generative AI chatbot or
+computer vision tool – perceives patterns or objects that are nonexistent or …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=L8LqOGtQu1QJ&citsig=ACUpqDcAAAAAalvujt8Uu2yu2L89zrqQdIQMDS4Twitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.tandfonline.com/doi/full/10.1080/15456870.2025.2533224&rt=In+Good+Faith:+Generative+AI%E2%80%99s+Plausible+Falsehoods+and+Their+Implications+for+Trust&scisig=AAZF9b8b7rBOoFZtuJvEkOy3txe0
+
+
+
+[PDF] AI AS AN ACADEMIC WRITING COMPANION
+[https://scholar.google.com/scholar_url?url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&hl=en&sa=X&d=9253476467610614164&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b_TvAqVarDb_iO4gZpS7ghu&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=1&folt=kw-top]
+
+T Muir, MS Kannelønning - Book of abstracts, 2025
+… need to effectively use Generative AI for writing academic texts and,
+crucially, to
+assess the outputs of Generative AI with the appropriate … The aim here is to
+develop and apply the rhetorical knowledge necessary to guide a bot’s
+responses; …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=lPld_dHzaoAJ&citsig=ACUpqDcAAAAAalvujixO3GF6E7jtZ4PcG4VbQ0MTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvNLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvNFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.eataw2025.com/_files/ugd/73ec3f_238acab1d1164322a0bbc59988d6bc19.pdf%23page%3D92&rt=AI+as+an+academic+writing+companion&scisig=AAZF9b8hvD4hboMy6-AeaOOo_lvN
+
+
+
+[PDF] EVALUATION OF GENERATIVE ARTIFICIAL INTELLIGENCE (GENAI) AS A
+TRANSFORMATIVE TECHNOLOGY FOR EFFECTIVE AND EFFICIENT GOVERNANCE, POLITICAL
+KNOWLEDGE, ELECTORAL, AND …
+[https://scholar.google.com/scholar_url?url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&hl=en&sa=X&d=2666363924821932492&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b_4AO1ER_rRQzWmzGaf5eF5&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=2&folt=kw-top]
+
+CL Ezeji, DE Uwizeyimana - International Journal of Business Ecosystem &
+Strategy …, 2025
+… This AI chatbot operates on the foundation of a large language model (LLM),
+trained on vast amounts of data to produce human-like text. … applications that
+emerge from generative AI and how we use them in daily lives will shape
+democratic …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=zHnt1NzTACUJ&citsig=ACUpqDcAAAAAalvujrVF6KEFtq6AdeTOrbMpxkUTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERALinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERAFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.bussecon.com/ojs/index.php/ijbes/article/download/831/487&rt=Evaluation+of+generative+artificial+intelligence+(GENAI)+as+a+transformative+technology+for+effective+and+efficient+governance,+political+knowledge,+electoral,+and+democratic+processes&scisig=AAZF9b8y1ZHUuwJXObvMnF7NkERA
+
+
+
+EVALUATION OF ARTIFICIAL INTELLIGENCE CHATBOTS FOR FACIAL INJECTION PLANNING:
+COMPARATIVE PERFORMANCE AND SAFETY LIMITATIONS
+[https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s00266-025-05010-8&hl=en&sa=X&d=15519669093163913503&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b9XwF8rqjMwqRx4OChPnbXa&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=3&folt=kw-top]
+
+T Radulesco, D Ebode, A Maniaci, S Gargula… - Aesthetic Plastic Surgery, 2025
+… The deployment of generative AI in healthcare raises critical concerns about
+safety, reliability, and access control. While some chatbots, like Gemini,
+appropriately refuse to generate medical advice, others freely provide highly
+specific—but …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=H9GkQdDwYNcJ&citsig=ACUpqDcAAAAAalvujgr9MOegj783vlfECsK7a_YTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLKLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLKFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://link.springer.com/article/10.1007/s00266-025-05010-8&rt=Evaluation+of+Artificial+Intelligence+Chatbots+for+Facial+Injection+Planning:+Comparative+Performance+and+Safety+Limitations&scisig=AAZF9b_4V8Gf9x7KEMcvsvmGkrLK
+
+
+
+[PDF] PAST, PRESENT AND FUTURE: EXPLORING ADAPTIVE AI IN SOFTWARE DEVELOPMENT
+BOTS
+[https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2507.10822&hl=en&sa=X&d=16277812133516405836&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b8s4lvcKqTX0KUvNNyMn4HU&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=4&folt=kw-top]
+
+O Elsisi, G Melo - arXiv preprint arXiv:2507.10822, 2025
+… ChatGPT is a generative AI chatbot that creates content dynamically, helping
+developers with code generation, debugging, documentation, and brainstorming.
+It’s
+ideal for software engineers, technical writers, and testers needing creative
+or …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=TOzJUuRn5uEJ&citsig=ACUpqDcAAAAAalvujhgOB0hlw_WsH5JUR5ZhRbATwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqomLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqomFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://arxiv.org/pdf/2507.10822&rt=Past,+Present+and+Future:+Exploring+Adaptive+AI+in+Software+Development+Bots&scisig=AAZF9b-iTHJRRt5e9Ob9VRATjqom
+
+
+
+[HTML] I NEED HUSBAND: AI BEAUTY STANDARDS, FASCISM AND THE PROLIFERATION OF BOT
+DRIVEN CONTENT
+[https://scholar.google.com/scholar_url?url=https://link.springer.com/article/10.1007/s00146-025-02491-8&hl=en&sa=X&d=15933566715600674537&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b-NTZepWvjr7e6ipMPcBm5v&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=5&folt=kw-top]
+
+J Rosenbaum - AI & SOCIETY, 2025
+… Generative AI has been known to create extraneous body parts, however in this
+case the … glimpse into beauty standards in the age of generative AI. An
+algorithmic
+look at the male gaze. … slop, AI bias, and the impact of generative AI on
+beauty …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=6Z5dGIJmH90J&citsig=ACUpqDcAAAAAalvujlNCV_99wiG9ggtnVgJWwZkTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://link.springer.com/article/10.1007/s00146-025-02491-8&rt=I+need+husband:+AI+beauty+standards,+fascism+and+the+proliferation+of+bot+driven+content&scisig=AAZF9b_iQvPOd02EUfhIcur5ejezLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://link.springer.com/article/10.1007/s00146-025-02491-8&rt=I+need+husband:+AI+beauty+standards,+fascism+and+the+proliferation+of+bot+driven+content&scisig=AAZF9b_iQvPOd02EUfhIcur5ejezFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://link.springer.com/article/10.1007/s00146-025-02491-8&rt=I+need+husband:+AI+beauty+standards,+fascism+and+the+proliferation+of+bot+driven+content&scisig=AAZF9b_iQvPOd02EUfhIcur5ejez
+
+
+
+GENERATIVE AI AND CIVIL WAR PRIMARY SOURCES: A METHODOLOGY EXPERIMENT
+[https://scholar.google.com/scholar_url?url=https://muse.jhu.edu/pub/14/article/965452/summary&hl=en&sa=X&d=13866126331565892199&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b9QclJ_RpeTnFPoMR6doN-X&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=6&folt=kw-top]
+
+J Mujic - Civil War History, 2025
+… When I ask it how ChatGPT can assist with primary source annotation, it gave a
+Civil War example in its answer because it knows from our ongoing chat that I've
+asked about or referred to the Civil War many times. And, when I write a
+prompt …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=Z-Ksw25gbsAJ&citsig=ACUpqDcAAAAAalvujlxtLJyc_WTktj9PgcVlzPUTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvGLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvGFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://muse.jhu.edu/pub/14/article/965452/summary&rt=Generative+AI+and+Civil+War+Primary+Sources:+A+Methodology+Experiment&scisig=AAZF9b_e_m37kVuYhKDxjrrl2yvG
+
+
+
+REVOLUTIONIZING CANDIDATE REGISTRATION SUPPORT: LEVERAGING AI FOR AN OPTIMIZED
+PUBLIC EXAMINATION PROCESS
+[https://scholar.google.com/scholar_url?url=https://library.iated.org/view/MUPARURI2025REV&hl=en&sa=X&d=9822385715878040218&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b_ilHVgxpuXmt6BbY-Ak4QH&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=7&folt=kw-top]
+
+L Muparuri - EDULEARN25 Proceedings, 2025
+… Leveraging AI and emerging technologies, this paper introduces an innovative
+support solution through a generative AI-powered chatbot, developed using
+Microsoft Copilot Studio. The chatbot provides 24/7 real-time assistance to …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=mhLIccQfUIgJ&citsig=ACUpqDcAAAAAalvujip-3UHI2pqFOnVDp0Kt8YQTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2LinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2Facebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://library.iated.org/view/MUPARURI2025REV&rt=REVOLUTIONIZING+CANDIDATE+REGISTRATION+SUPPORT:+LEVERAGING+AI+FOR+AN+OPTIMIZED+PUBLIC+EXAMINATION+PROCESS&scisig=AAZF9b-1OFQ45eUaQsGy64tZrCR2
+
+
+
+[PDF] BEYOND CHAT: COLLABORATIVE EDITORS ENHANCE HUMAN INVOLVEMENT AND AGENCY
+WHEN CO-WRITING WITH LARGE LANGUAGE MODELS
+[https://scholar.google.com/scholar_url?url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&hl=en&sa=X&d=8768442552172624819&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b9YSjcbhg09d9N1uraClMov&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=8&folt=kw-top]
+
+R Ocampo, O Bown, K Grace
+… We hypothesise that relying solely on chat interfaces reduces users’
+involvement
+in the writing process, relegating them to an instructing … editor alongside
+chat can
+mitigate the risk of overreliance on AI and help preserve creative skills. As …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=szurQwvEr3kJ&citsig=ACUpqDcAAAAAalvujv2KjjXRAJbFwr2WNm6bsukTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aRLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aRFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://computationalcreativity.net/iccc25/wp-content/uploads/papers/iccc25-ocampo2025beyond.pdf&rt=Beyond+chat:+collaborative+editors+enhance+human+involvement+and+agency+when+co-writing+with+large+language+models&scisig=AAZF9b-d-vmGyghJFtPHOluW88aR
+
+
+
+UPDATES IN THE EVOLUTION OF AI-DRIVEN DIGITAL MARKETING PRACTICES: A LITERATURE
+REVIEW WITH BIBLIOMETRIC ANALYSIS
+[https://scholar.google.com/scholar_url?url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&hl=en&sa=X&d=9694562882023915545&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b_friQXSFlgYC4WpjYIRAZu&oi=scholaralrt&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&pos=9&folt=kw-top]
+
+M Faruk, MM Rahman, R Mustafa, I Roy - International Journal of Technology …,
+2025
+… However, the authors in this research strongly believe that this topic in the
+niche
+theme ‘generative AI’ is going to rule the future research in … Real-time
+customer
+engagement can be done through (AI) chatbots such as Drift or Intercom which …
+
+Save
+[https://scholar.google.com/intl/en/scholar/images/1x/save-32.png]https://scholar.google.com/citations?hl=en&update_op=email_library_add&info=GQC5w5MBioYJ&citsig=ACUpqDcAAAAAalvujiMnUG-HB8OpfkGe0AeH6RcTwitter
+[https://scholar.google.com/intl/en/scholar/images/1x/tw-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=tw&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnBLinkedIn
+[https://scholar.google.com/intl/en/scholar/images/1x/in-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=in&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnBFacebook
+[https://scholar.google.com/intl/en/scholar/images/1x/fb-32.png]https://scholar.google.com/scholar_share?hl=en&oi=scholaralrt&ss=fb&url=https://www.inderscienceonline.com/doi/abs/10.1504/IJTMKT.2025.147357&rt=Updates+in+the+evolution+of+AI-driven+digital+marketing+practices:+a+literature+review+with+bibliometric+analysis&scisig=AAZF9b_qvqh8Ob-UgitkqGLS0HnB
+
+
+
+
+
+ 
+
+This message was sent by Google Scholar because you're following new results for
+[""generative ai"" chatbot]
+[https://scholar.google.com/scholar?q=%22generative+ai%22+chatbot&as_sdt=0&scisbd=1&hl=en].[https://scholar.google.com/scholar_url?url=https://scholar.google.com/scholar/images/cleardot.gif&hl=en&sa=X&ei=Drt6aK2FKde5ieoPw7j42A0&scisig=AAZF9b_a34HvSX_2fgO5O4n3w3Iv&hist=RSRmSqEAAAAJ:14015059107658462695:AAZF9b8rvGS2RbwL8zCuUOE-HyI4&html=&folt=kw-top&trs=0,1,2,3,4,5,6,7,8,9]
+
+List alerts
+[https://scholar.google.com/scholar_alerts?view_op=list_alerts&email_for_op=website%40alerts.com&alert_id=5_UV4gB-f8IJ&hl=en]
+Cancel alert
+[https://scholar.google.com/scholar_alerts?view_op=cancel_alert_options&email_for_op=website%40alerts.com&alert_id=5_UV4gB-f8IJ&hl=en&citsig=ACUpqDcAAAAAaI0wDo52wEbnP7ut4ZMsetQNHD8]"
